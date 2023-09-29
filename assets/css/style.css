@@ -1,21 +1,94 @@
 * {
     box-sizing: border-box;
-    padding: 0;
+    padding: 1px;
     margin: 0;
 }
 
 body {
-    background-color: #d9dcd6;
+    background-color: lightblue;
 }
+
+nav {
+    display: flex;
+    justify-content: flex-end;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+    /* colors the letter that are inside the tags */
+    color:black;  
+}
+
+main section img {
+    width: 240px;
+    height: 300px;
+}
+
+h2 {
+    font-size: 25px;
+    color:blue;
+}
+
+h3 {
+    font-size: 20px;
+    color:purple;
+}
+
+section {
+    border-style: solid;
+    border-color: blue;
+    /* border-radius: 100px; */
+    border-width: 10px;
+    /* border-right: 0cap; */
+    /* margin-right causes the border to shrink or adjust from the right. The bigger the pixels than the border will decrease going towards left */
+    margin-right: 700px;
+}
+
+p {
+    font-size: 16px;
+    /* border-radius: 100px; */
+    border-width: 100px;
+}
+
+/* aside section {
+    display: flex;
+    justify-content: center;
+} */
+
+aside section img {
+    width: 230px;
+    height: 250px;
+}
+
+
+/* main fieldset img {
+    width: 200px;
+    height: 250px;
+} */
+
+/* main fieldset {
+    width: 700px;
+    height: 400px;
+} */
+
+/* aside fieldset {
+    width: 700px;
+    height: 700px;
+} */
+
+
 
 .header {
-    padding: 20px;
+    display: flexbox;
+    /* padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
+    color: black; */
 }
 
-.header h1 {
+/* .header h1 {
     display: inline-block;
     font-size: 48px;
 }
@@ -26,6 +99,7 @@ body {
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+    color: black;
 }
 
 .header nav ul {
@@ -38,10 +112,15 @@ body {
 }
 
 a {
-    color: #ffffff;
+    color: black;
     text-decoration: none;
+} */
+
+
+/* .whats-up {
+    background-color: pink;
 }
 
-p {
-    font-size: 16px;
-}
+div {
+    background-color: blue;
+} */
