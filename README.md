@@ -30,9 +30,9 @@ THEN the employer(s) are taken to the appropriate deployed application
 
 ## First Project
 
-The following shows the first web page I developed:
+The following shows my portfolio that I developed:
 
-(./assets/css/images/pic11.png)
+![Alt text](pic11.png)
 
 ## Links To Copy Rights Images
 
