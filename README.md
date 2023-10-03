@@ -30,9 +30,15 @@ THEN the employer(s) are taken to the appropriate deployed application
 
 ## First Project
 
-The following shows my portfolio that I developed:
+The following shows screenshots of my portfolio that I developed:
 
 ![Alt text](pic11.png)
+
+![Alt text](pic12.png)
+
+![Alt text](pic13.png)
+
+![Alt text](pic14.png)
 
 ## Links To Copy Rights Images
 
