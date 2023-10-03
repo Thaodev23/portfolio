@@ -11,7 +11,7 @@ body {
 nav {
     position: absolute;
     top: -10px;
-    left: 1700px;
+    left: 1300px;
 }
 
 h1 {
@@ -40,7 +40,7 @@ section {
     border-color: blue;
     /* border-radius: 100px; */
     border-width: 10px;
-    /* border-right: 0cap; */
+    border-right: -10px;
     /* margin-right causes the border to shrink or adjust from the right. The bigger the pixels than the border will decrease going towards left */
     /* margin-right: 700px; */
 }
@@ -107,6 +107,19 @@ h3 {
     width: 200px;
 }
 
+h4 {
+    font-size: 25px;
+}
+
+footer {
+    font-size: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    border: 60px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: blue;
+}
 
 /* .about-me #joey {
     margin-right: 30%;

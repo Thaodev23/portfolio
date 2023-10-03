@@ -55,7 +55,11 @@ Seafood pic: https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%
 
 ```
 Jason Yang - classmate whom assisted on the assignment.
+Github account - https://github.com/Jasony95
+```
 Sichoun Lee - classmate whom assisted on the assignment. 
+Github account - https://github.com/DDXP3
+```
 John Coakley - tutor whom asissted on the assignment.
 Andres Jimenez - tutor whom assisted on the assignment
 ```
