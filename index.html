@@ -1,5 +1,5 @@
 <!-- Author: Joey Thao
-     Collaborators: Jason Yang and Sichoun Lee
+     Collaborators: Jason Yang and Sichoun Lee (John Coakley and Andres Jimenez)
      Date: started on 9/26/2023
      Description: Portfolio-->
 
@@ -13,17 +13,20 @@
 </head>
 <body>
     <header>
-        <div><h1>Joey Thao's Portfolio</h1></div> 
+        <h1>Joey Thao's Portfolio</h1>
         <nav>
             <u1>
                 <li>
                     <a href="#about-me">Aboout Me</a>
                 </li>
                 <li>
-                    <a href="#project">Project</a>
+                    <a href="#projects">Projects</a>
                 </li>
                 <li>
                     <a href="#work-experiences">Work Experiences</a>
+                </li>
+                <li>
+                    <a href="#contact-info">Contact Info</a>
                 </li>
             </u1>
         </nav>
@@ -32,10 +35,11 @@
     <main class="content">
         <div>
         <h2>About Me</h2>
-        <section id="about-me" class="about-me">
-            <img src="./assets/images/pic1.jpg" alt="" class="float-left" id="joey" />         
+        <!-- if you id the tag then all the child elements will be included in the id -->
+        <section id="about-me" class="biography"> 
+            <img src="./assets/images/pic1.jpg" alt="Joey standing in front of a waterfall" id="joey" />         
             <p>
-                My name is Joseph Thao but you can call me Joey. I obtained a bachelor's degree in biology from the University of Arkansas Fort Smith. In the past, I worked in various jobs from turkey polutry farming to laboratory technician and finally to seafood quality assurance technician. I realized these fields wasn't for me so here I am writing my portofolio hoping to obatin a job in the tech field (By the way, so far I'm liking the tech field way more than what I was doing PREVIOUSLY!!!!!).
+                My name is Joseph Thao but you can call me Joey. I obtained a bachelor's degree in biology from the University of Arkansas Fort Smith. In the past, I worked in various jobs from turkey polutry farming to laboratory technician and finally to seafood quality assurance technician. I realized these fields wasn't for me so here I am writing my portfolio hoping to obatin a job in the tech field (By the way, so far I'm liking the tech field way more than what I was doing PREVIOUSLY!!!!!).
             </p>
             <h3>Hobbies:</h3>
             <div class="hobbies">  
@@ -43,51 +47,56 @@
                     I enjoy playing with my niece, jogging and reading books.
                 </p>  
                 <!-- the image link has to be type in that specific way -->
-                <img src="./assets/images/pic2.jpg" alt="" id="niece"/>
+                <img src="./assets/images/pic2.jpg" alt="Joey and his niece" id="niece"/>
                 <!-- using the id= will help out with adjusting individual specific photos -->
-                <img src="./assets/images/pic3.jpg" alt="" id="jogging"/>  
-                <img src="./assets/images/pic4.jpg" alt="" id="bookworm"/>  
+                <img src="./assets/images/pic3.jpg" alt="people jogging before the sun rises" id="jogging"/>  
+                <img src="./assets/images/pic4.jpg" alt="pile of books and a tablet" id="bookworm"/>  
             </div>
         </section>
         </div>
         <div>
-        <h2>Project</h2>
-        <section id="project" class="pj">
-                <a href= "https://www.google.com/"> <img src="./assets/images/pic5.jpg" alt="" class="float-left" /></a>            
+        <h2>Projects</h2>
+        <!-- id have to be link to a href in order to be a deployed application-->
+        <section id="projects">
+                <a href= "https://thaodev23.github.io/horiseon/"> <img src="./assets/images/pic5.jpg" alt="a person developing a webpage using html and css" id="pic1"/> </a>            
                 <p>
-                     Develope webpages for University of Minnesota coding bootcamp.
+                     I used HTML and CSS to build my first application. I used HTML to showcase my skills of building the foundational structures of a website that have the potential to be useful for the users in the future. I used CSS to show my abilities of styling the website in an appealing manner to the users.
+                </p>
+                <a href="https://www.python.org/"><img src="./assets/images/pic6.jpg" alt="digital image of python" id="python"/></a> 
+                <a href="https://www.java.com/"><img src="./assets/images/pic7.jpg" alt="digital image of java" id="java"/></a>
+                <p>
+                    Work on other projects using Python and Java (PLEASE NOTE: the deploy links on the images are also placeholders).
                 </p>
         </section>
         </div>
-        <h2>Work Experiences:</h2>
-        <section id="work-experiences" class="work-experiences">
-            <img src="" alt="" class="float-left" />     
+        <h2>Work Experiences</h2>
+        <section id="work-experiences" class="work-experiences"> 
             <p>
+                <img src="./assets/images/pic8.jpg" alt="cartoon picture of a turkey" class="work-pic"/>
+                <img src="./assets/images/pic9.jpg" alt="cartoon picture of a laboratory" class="work-pic"/>
+                <img src="./assets/images/pic10.jpg" alt="cartoon picture of seafood" class="work-pic"/>
                 <u1>
                    <li> 
-                    Experiences in html.
+                    Worked 15 years on a turkey polutry farm.
                    </li>
                    <li>
-                    Experiences in css. 
+                    Worked for a few months as a laboratory technician.
                    </li>
                    <li>
-                    Experiences in JavaScript.
+                    Worked 2 and a half years as a seafood quality assurance technician.
                    </li>
                 </u1>
             </p>
         </section>
     </main>
-    <!-- <aside>
-        <h3>Hobbies</h3>
-        <section>  
-            <p>
-                I enjoy reading books, jogging at the park and playing around with my niece and nephews.
-            </p>  
-            <img src="./assets/images/pic2.jpg" alt=""/>  
-        </section>
-    </aside> -->
     <footer class="footer">
-
+        <section id="contact-info">
+        <h4>Contact Info:</h4>
+        <a href="https://github.com/Thaodev23">Github</a>
+        <a href=https://www.google.com/gmail/about/>Email:joeythao@email.com</a>
+        <!-- <a> tags can be used for writing out the number in the contact section -->
+        <a>Phone number: 405-293-9032 (PLEASE NOTE: fake number with random numbers being picked)</a>
+        </section>
     </footer>
     <!-- Below are just hypothetical practices -->
 

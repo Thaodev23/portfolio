@@ -8,32 +8,10 @@ body {
     background-color: lightblue;
 }
 
-/* #about-me {
-    margin-left: 40%;
-    margin-right: 40%;
-} */
-
-.content {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    /* width: 40%; */
-
-}
-
-.about-me p {
-    /* width: 400px; */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    /* text-align: center; */
-}
-
 nav {
-    display: flex;
-    justify-content: flex-end;
+    position: absolute;
+    top: -10px;
+    left: 1700px;
 }
 
 h1 {
@@ -44,56 +22,46 @@ h1 {
     color:black;  
 }
 
-#project {
+.content {
     display: flex;
-    justify-content: flex-start;
-    /* align-content: flex-start; */
-    /* width: 100%; */
-}
-
-main section img {
-    width: 240px;
-    height: 300px;
-    /* display: flex;
-    justify-content: center; */
-}
-
-/* .about-me #joey {
-    margin-right: 30%;
-    margin-left: 30%;
-} */
-
-/* .content div {
-    display: flex;
-    flex-direction: row;
-} */
-
-
-.float-left {
-    width: 250px;
-    height: 200px;
-}
-
-
-#joey {
-    width: 200px;
-    height: 250px;
-}
-
-/* using the # is for the id= */
-#niece {
-    width: 270px;
-    height: 300px;
-}
-
-#bookworm {
-    width: 270px;
-    height: 300px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 h2 {
     font-size: 25px;
     color:blue;
+}
+
+section {
+    border-style: solid;
+    border-color: blue;
+    /* border-radius: 100px; */
+    border-width: 10px;
+    /* border-right: 0cap; */
+    /* margin-right causes the border to shrink or adjust from the right. The bigger the pixels than the border will decrease going towards left */
+    /* margin-right: 700px; */
+}
+
+/* the width will adjust the boundary on the section on the webpage */
+/* id are # */
+#about-me {
+    width: 900px;
+}
+
+main section img {
+    width: 240px;
+    height: 300px;
+/* if you uncomment below it will push everything to the left of the section box */
+    /* display: flex;
+    justify-content: space-evenly; */
+}
+
+#joey {
+    width: 265px;
+    height: 330px;
 }
 
 h3 {
@@ -106,15 +74,54 @@ h3 {
     margin-top: 5px;
 }
 
-section {
-    border-style: solid;
-    border-color: blue;
-    /* border-radius: 100px; */
-    border-width: 10px;
-    /* border-right: 0cap; */
-    /* margin-right causes the border to shrink or adjust from the right. The bigger the pixels than the border will decrease going towards left */
-    /* margin-right: 700px; */
+/* using the # is for the id= */
+#niece {
+    width: 270px;
+    height: 300px;
 }
+
+#bookworm,
+#jogging {
+    width: 270px;
+    height: 300px;
+}
+
+#projects {
+    width: 900px;
+}
+
+#pic1 {
+    height: 500px;
+    width: 620px;
+}
+
+/* below: does not work for the flex but will work for the width adjustment */
+
+/* #python,
+#java {
+    align-items: space-evenly;
+} */
+
+.work-pic {
+    height: 200px;
+    width: 200px;
+}
+
+
+/* .about-me #joey {
+    margin-right: 30%;
+    margin-left: 30%;
+} */
+
+/* .content div {
+    display: flex;
+    flex-direction: row;
+} */
+
+/* .float-left {
+    width: 250px;
+    height: 200px;
+} */
 
 /* p {
     font-size: 16px;
@@ -187,6 +194,7 @@ a {
 } */
 
 
+/* below are some hypothetical practices */
 /* .whats-up {
     background-color: pink;
 }
