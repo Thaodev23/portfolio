@@ -9,9 +9,9 @@ body {
 }
 
 nav {
-    position: absolute;
-    top: -10px;
-    left: 1300px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-end;
 }
 
 h1 {
@@ -121,97 +121,3 @@ footer {
     border-color: blue;
 }
 
-/* .about-me #joey {
-    margin-right: 30%;
-    margin-left: 30%;
-} */
-
-/* .content div {
-    display: flex;
-    flex-direction: row;
-} */
-
-/* .float-left {
-    width: 250px;
-    height: 200px;
-} */
-
-/* p {
-    font-size: 16px;
-    width: 100px;
-    text-align: center;
-} */
-
-/* aside section {
-    display: flex;
-    justify-content: center;
-} */
-
-/* aside section img {
-    width: 230px;
-    height: 250px;
-} */
-
-
-/* main fieldset img {
-    width: 200px;
-    height: 250px;
-} */
-
-/* main fieldset {
-    width: 700px;
-    height: 400px;
-} */
-
-/* aside fieldset {
-    width: 700px;
-    height: 700px;
-} */
-
-
-
-/* .header {
-    display: flexbox; */
-    /* padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
-    color: black; */
-/* } */
-
-/* .header h1 {
-    display: inline-block;
-    font-size: 48px;
-}
-
-.header nav {
-    padding-top: 15px;
-    margin-right: 20px;
-    float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
-    color: black;
-}
-
-.header nav ul {
-    list-style-type: none;
-}
-
-.header nav ul li {
-    display: inline-block;
-    margin-left: 25px;
-}
-
-a {
-    color: black;
-    text-decoration: none;
-} */
-
-
-/* below are some hypothetical practices */
-/* .whats-up {
-    background-color: pink;
-}
-
-div {
-    background-color: blue;
-} */

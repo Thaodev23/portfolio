@@ -7,15 +7,15 @@ https://github.com/Thaodev23/portfolio
 ## User Story
 
 ```
-AS A web development student
-I WANT to showcase my portfolio to potential employer(s)
-SO THAT employer(s) can decide whether or not I will be a employee for their company
+AS a web development student
+I want to showcase my portfolio to potential employer(s)
+SO that employer(s) can decide whether or not I will be a employee for their company
 ```
 
 ## Acceptance Criteria
 
 ```
-GIVEN that an employer(s) need to sample my previous work
+GIVEN that employer(s) need to sample my previous work
 WHEN the employer(s) upload my portfolio
 THEN the employer(s) are presented with my name, a photo of me, and links to sections about my biography, projects, work experiences, and how to contact me
 WHEN the employer(s) click on one of the links in the navigation bar
@@ -26,13 +26,13 @@ WHEN the employer(s) are presented with the first application I have developed
 THEN the image of the first application I developed is larger in size compared to the others project I worked on
 WHEN the employer(s) click on the images in the project section
 THEN the employer(s) are taken to the appropriate deployed application
-<!-- WHEN I resize the page or view the site on various screens and devices
-THEN I am presented with a responsive layout that adapts to my viewport -->
 ```
 
 ## First Project
 
 The following shows the first web page I developed:
+
+(./assets/css/images/pic11.png)
 
 ## Links To Copy Rights Images
 
@@ -57,8 +57,10 @@ Seafood pic: https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%
 Jason Yang - classmate whom assisted on the assignment.
 Github account - https://github.com/Jasony95
 ```
+```
 Sichoun Lee - classmate whom assisted on the assignment. 
 Github account - https://github.com/DDXP3
+```
 ```
 John Coakley - tutor whom asissted on the assignment.
 Andres Jimenez - tutor whom assisted on the assignment
