@@ -4,10 +4,9 @@
 
 ```
 AS A web development student
-I WANT to showcase my portfolio for potential employers
-SO THAT employers can decide whether or not I will be a employee for their company
+I WANT to showcase my portfolio to potential employer(s)
+SO THAT employer(s) can decide whether or not I will be a employee for their company
 ```
-
 
 ## Acceptance Criteria
 
@@ -27,65 +26,34 @@ THEN the employer(s) are taken to the appropriate deployed application
 THEN I am presented with a responsive layout that adapts to my viewport -->
 ```
 
-
 ## First Project
 
 The following shows the first web page I developed:
 
+## Links To Copy Rights Images
+
+Jogging pic: https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fsilhouette-young-couple-running-together-roadtrack_38335-741.jpg%3Fw%3D2000&tbnid=xH7z2C5HEtgKOM&vet=12ahUKEwitsuWqrNiBAxUePN4AHfy-D00QMygJegQIARBn..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fphotos%2Fpeople-running-silhouette%2F2&docid=F74_M9HJ38InhM&w=2000&h=1333&q=free%20copyright%20images%20silhouette%20of%20people%20jogging%20at%20the%20park%20free%20pik&hl=en&ved=2ahUKEwitsuWqrNiBAxUePN4AHfy-D00QMygJegQIARBn 
+
+Books pic: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fe-books&psig=AOvVaw2w9soyt2xUyEMLnis9DrmR&ust=1696370050088000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCMDX24at2IEDFQAAAAAdAAAAABANU
+
+Digital python pic: https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fpython-programming-code-abstract-technology-background_272306-146.jpg&tbnid=lveRNNPOm_dO-M&vet=12ahUKEwjH_IvSic-BAxVMEt4AHUL2IrgQMygmegUIARCoAQ..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fpython-language&docid=TAkhmT1_UlQDuM&w=626&h=395&q=free%20copyright%20cartoon%20images%20computer%20python%20language%20freepik&hl=en&ved=2ahUKEwjH_IvSic-BAxVMEt4AHUL2IrgQMygmegUIARCoAQ
+
+Digital java pic: https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-psd%2Fjava-document-file-format-3d-rendering_507366-963.jpg%3Fw%3D2000&tbnid=b9X9eSv0b9fXjM&vet=12ahUKEwicguDhis-BAxUiId4AHY8lAzIQMyguegUIARCyAQ..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fjava&docid=oZdoOeqDFyw1AM&w=2000&h=2000&q=free%20copyright%20cartoon%20images%20computer%20java%20language%20freepik&hl=en&ved=2ahUKEwicguDhis-BAxUiId4AHY8lAzIQMyguegUIARCyAQ
+
+Turkey pic: https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fcartoon-illustration-turkey_29937-9750.jpg%3Fw%3D2000&tbnid=AaA9YYBjpGcZxM&vet=12ahUKEwjo1o3LiNCBAxX9FN4AHRk0DssQMygLegQIARBe..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fcartoon-illustration-turkey_30754353.htm&docid=At9tPB9Nihv7tM&w=2000&h=2000&q=free%20copyright%20cartoon%20images%20of%20turkey%20freepik&hl=en&ved=2ahUKEwjo1o3LiNCBAxX9FN4AHRk0DssQMygLegQIARBe
+
+Laboratory pic: https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fcartoon-laboratory-room-illustration_52683-58725.jpg&tbnid=lHnBry5Te-oBbM&vet=12ahUKEwiiiKj3iNCBAxVIKd4AHUvSCuIQMygFegQIARBX..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-lab&docid=0LfZ6MpAom5gcM&w=626&h=417&q=free%20copyright%20cartoon%20images%20of%20laboratory%20freepik&hl=en&ved=2ahUKEwiiiKj3iNCBAxVIKd4AHUvSCuIQMygFegQIARBX
+
+Seafood pic: https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fcartoon-seafood-products-design-menu-shop-poster-package-pile-with-ocean-fish-lobster-oysters-crab-marine-food-vector-set-advertisement-restaurant-shop-with-seafood_102902-4921.jpg%3Fw%3D2000&tbnid=1X66JUkTttuRkM&vet=12ahUKEwi9kPahidCBAxVbFd4AHUoABHEQMygDegQIARBJ..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fcartoon-seafood-products-design-menu-shop-poster-package-pile-with-ocean-fish-lobster-oysters-crab-marine-food-vector-set-advertisement-restaurant-shop-with-seafood_18507619.htm&docid=RZ1jZeV5iBRKlM&w=2000&h=1499&q=free%20copyright%20cartoon%20images%20of%20seafood%20freepik&hl=en&ved=2ahUKEwi9kPahidCBAxVbFd4AHUoABHEQMygDegQIARBJ
 
 
+## Collaborators
 
-## Grading Requirements
+```
+Jason Yang - classmate whom assisted on the assignment.
+Sichoun Lee - classmate whom assisted on the assignment. 
+John Coakley - tutor whom asissted on the assignment.
+Andres Jimenez - tutor whom assisted on the assignment
+```
 
-> **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
->
-> * A repository that has no code
->
-> * A repository that includes a unique name but nothing else
->
-> * A repository that includes only a README file but nothing else
->
-> * A repository that only includes starter code
 
-This Challenge is graded based on the following criteria: 
-
-### Technical Acceptance Criteria: 40%
-
-* Satisfies all of the above acceptance criteria.
-
-### Deployment: 32%
-
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository contains application code.
-
-### Application Quality: 15%
-
-* Application resembles the mock-up functionality provided in the Challenge instructions.
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality readme with description, screenshot, link to deployed application.
-
-## Review
-
-You are required to submit BOTH of the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
-
-- - -
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
