@@ -1,5 +1,9 @@
 # Joey Thao's Portfolio
 
+https://thaodev23.github.io/portfolio/
+
+https://github.com/Thaodev23/portfolio
+
 ## User Story
 
 ```
