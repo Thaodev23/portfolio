@@ -15,17 +15,17 @@ SO that employer(s) can decide whether or not I will be a employee for their com
 ## Acceptance Criteria
 
 ```
-GIVEN that employer(s) need to sample my previous work
+GIVEN that employer(s) need to have an insight of my previous work
 WHEN the employer(s) upload my portfolio
 THEN the employer(s) are presented with my name, a photo of me, and links to sections about my biography, projects, work experiences, and how to contact me
 WHEN the employer(s) click on one of the links in the navigation bar
-THEN the employer(s) will be taken to the appropriate section
+THEN the employer(s) will be navigated to the appropriate section
 WHEN the employer(s) click on the link to the section about my projects
-THEN the employer(s) will be take to a section with titled images of the first applications I developed
-WHEN the employer(s) are presented with the first application I have developed
-THEN the image of the first application I developed is larger in size compared to the others project I worked on
-WHEN the employer(s) click on the images in the project section
-THEN the employer(s) are taken to the appropriate deployed application
+THEN the employer(s) will be navigated to a section that goes into detail about the projects I worked on
+WHEN the employer(s) navigate to the first application I have developed
+THEN the image of the first application I developed is bigger in proportion compared to the other projects I worked on
+WHEN the employer(s) click on any images in the project section
+THEN the employer(s) are taken to the webpages of the project I worked on
 ```
 
 ## First Project
